@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 import pe.ineapp.tipocambio.application.service.TipoCambioService;
 import pe.ineapp.tipocambio.response.ConversionResponse;
-import pe.ineapp.tipocambio.response.TipoCambioDetailsResponse;
-import pe.ineapp.tipocambio.response.TipoCambioResponse;
 import pe.ineapp.tipocambio.response.TipoCambioResultsResponse;
 
 

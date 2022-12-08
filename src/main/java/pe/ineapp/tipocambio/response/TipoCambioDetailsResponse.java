@@ -6,6 +6,5 @@ import lombok.Data;
 public class TipoCambioDetailsResponse {
 
     private String from;
-    private String to;
 
 }

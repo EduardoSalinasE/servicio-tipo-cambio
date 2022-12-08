@@ -4,8 +4,10 @@ import lombok.Data;
 
 import java.util.List;
 
+
 @Data
 public class TipoCambioResultsResponse {
 
-    private List<TipoCambioDetailsResponse> query;
+    private Object query;
+    private Object info;
 }

@@ -26,4 +26,8 @@ public class TipoCambio {
 
     @Id
     Long id;
+    String from;
+    String to;
+    float tipoCambio;
+    float resultado;
 }
